@@ -147,11 +147,7 @@
             </fieldset>
 
             <p class="text-center">
-                <input type="submit"
-                       value="{$LANG.ordercontinuebutton}"
-                       class="btn btn-primary"
-                       id="btnOrderContinue"
-                />
+                <input type="submit" value="{$LANG.ordercontinuebutton}" class="btn btn-primary" />
             </p>
 
         </form>

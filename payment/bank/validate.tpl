@@ -36,7 +36,7 @@
             }
             if (!submit) {
                 submitButton.prop('disabled', false).removeClass('disabled')
-                    .find('span').toggle();
+                    .find('span').toggleClass('hidden');
                 e.preventDefault();
             }
         }

@@ -312,7 +312,7 @@
                                     </div>
                                 {else}
                                     <div class="alert alert-warning ssl-required" role="alert">
-                                        {lang key='sslState.sslInactive'}
+                                        {lang key='sslRequired'}
                                     </div>
                                 {/if}
                             </div>
